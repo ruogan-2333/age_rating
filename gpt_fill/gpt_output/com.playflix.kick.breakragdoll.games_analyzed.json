@@ -1,0 +1,139 @@
+{
+  "answers": {
+    "Gory_Images": {
+      "answer": "Yes",
+      "confidence": 0.95,
+      "reason": "游戏中有明显的暴力和血腥场景。"
+    },
+    "violence_content": {
+      "answer": [
+        "Violence or implied violence against humans",
+        "Disturbing or gory images without a violent act shown."
+      ],
+      "confidence": 0.9,
+      "reason": "游戏包含对人类的暴力和血腥图像。"
+    },
+    "violence_setting": {
+      "answer": "Fantastical",
+      "confidence": 0.85,
+      "reason": "游戏场景为幻想风格，非现实背景。"
+    },
+    "violence_style": {
+      "answer": "Yes, it has a childlike style (e.g., likely to appeal to younger children)",
+      "confidence": 0.8,
+      "reason": "游戏采用卡通风格，吸引年轻玩家。"
+    },
+    "reactions_to_violence": {
+      "answer": "Unrealistic",
+      "confidence": 0.88,
+      "reason": "角色对暴力的反应不符合现实。"
+    },
+    "violence_presentation": {
+      "answer": [
+        "Implied but not seen",
+        "Often depicted from a close-up perspective"
+      ],
+      "confidence": 0.87,
+      "reason": "暴力行为常常暗示且有特写镜头。"
+    },
+    "blood_gore_level": {
+      "answer": "Moderate",
+      "confidence": 0.85,
+      "reason": "游戏中血腥程度适中，存在明显血迹。"
+    },
+    "war_setting": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏不涉及现实或历史战争背景。"
+    },
+    "injury_penalties": {
+      "answer": "Yes, without penalties",
+      "confidence": 0.9,
+      "reason": "角色可以被伤害且没有惩罚机制。"
+    },
+    "violent_overtones": {
+      "answer": "Yes",
+      "confidence": 0.92,
+      "reason": "游戏中存在阴暗的音效和角色。"
+    },
+    "violence_setting_context": {
+      "answer": "Fantastical",
+      "confidence": 0.85,
+      "reason": "暴力发生在幻想背景中。"
+    },
+    "pixelated_childlike_style": {
+      "answer": "Yes",
+      "confidence": 0.8,
+      "reason": "游戏风格卡通化，适合儿童。"
+    },
+    "reactions_to_violence_type": {
+      "answer": "Unrealistic",
+      "confidence": 0.88,
+      "reason": "角色对暴力的反应不符合现实。"
+    },
+    "violence_presentation_style": {
+      "answer": [
+        "Implied but not seen",
+        "Often depicted from a close-up perspective"
+      ],
+      "confidence": 0.87,
+      "reason": "暴力行为常常暗示且有特写镜头。"
+    },
+    "blood_gore_level_associated": {
+      "answer": "Moderate",
+      "confidence": 0.85,
+      "reason": "游戏中血腥程度适中，存在明显血迹。"
+    },
+    "creatures_human_behaviour": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏中的生物不具有人类行为。"
+    },
+    "violence_against_real_animals": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏中没有针对真实动物的暴力。"
+    },
+    "violent_overtones_present": {
+      "answer": "Yes",
+      "confidence": 0.92,
+      "reason": "游戏中存在阴暗的音效和角色。"
+    },
+    "disturbing_images_explicitness": {
+      "answer": "Moderate Detail",
+      "confidence": 0.85,
+      "reason": "游戏中的血腥图像细节适中。"
+    },
+    "blood_unrelated_description": {
+      "answer": "Small and infrequent",
+      "confidence": 0.8,
+      "reason": "游戏中的血迹较小且不频繁出现。"
+    }
+  },
+  "image_analysis": {
+    "image1.png": "第一张图展示了一个被切割的玩偶，暗示暴力。",
+    "image2.png": "第二张图显示了一个玩偶和悬挂的集装箱，可能暗示危险。",
+    "image3.png": "第三张图展示了一个集装箱和玩偶，未显示暴力。",
+    "image4.png": "第四张图展示了一个玩偶在压榨机上，暗示暴力。",
+    "image5.png": "第五张图展示了一个玩偶在压榨机上，显示了暴力行为。",
+    "image6.png": "第六张图展示了一个玩偶在危险的环境中，暗示暴力。",
+    "image7.png": "第七张图展示了一个玩偶和危险的管道，暗示暴力。",
+    "image8.png": "第八张图展示了一个玩偶在飞机旁边，可能暗示危险。",
+    "image9.png": "第九张图展示了一个玩偶在飞机引擎旁，暗示暴力。",
+    "image10.png": "第十张图展示了一个玩偶在悬崖边缘，暗示危险。"
+  },
+  "image_files": [
+    "image1.png",
+    "image2.png",
+    "image3.png",
+    "image4.png",
+    "image5.png",
+    "image6.png",
+    "image7.png",
+    "image8.png",
+    "image9.png",
+    "image10.png"
+  ],
+  "overall_confidence": 0.87,
+  "comment": ""
+}

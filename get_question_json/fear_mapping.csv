@@ -1,0 +1,13 @@
+﻿combo_id,scary_content,scary_elements_includes,scary_elements_frequency,horrifying_elements_frequency,intense_and_unrelenting,summary,country,rating
+1,Yes,['Scary elements'],Rare,,,Pictures or sounds likely to be scary (Rarely),North America,Everyone
+2,Yes,['Scary elements'],Often,,,Pictures or sounds likely to be scary (Often),North America,Everyone 10+
+3,Yes,['Horrifying elements'],,Rare,,Pictures or sounds likely to be horrifying (Rarely),North America,Teen
+4,Yes,['Horrifying elements'],,Often,Yes,Pictures or sounds likely to be horrifying (Often) | Intense and unrelenting sense of imminent threat,North America,Teen
+5,Yes,['Horrifying elements'],,Often,No,Pictures or sounds likely to be horrifying (Often),North America,Teen
+6,Yes,"['Scary elements', 'Horrifying elements']",Rare,Rare,,Pictures or sounds likely to be scary (Rarely) | Pictures or sounds likely to be horrifying (Rarely),North America,Teen
+7,Yes,"['Scary elements', 'Horrifying elements']",Rare,Often,Yes,Pictures or sounds likely to be scary (Rarely) | Pictures or sounds likely to be horrifying (Often) | Intense and unrelenting sense of imminent threat,North America,Teen
+8,Yes,"['Scary elements', 'Horrifying elements']",Rare,Often,No,Pictures or sounds likely to be scary (Rarely) | Pictures or sounds likely to be horrifying (Often),North America,Teen
+9,Yes,"['Scary elements', 'Horrifying elements']",Often,Rare,,Pictures or sounds likely to be scary (Often) | Pictures or sounds likely to be horrifying (Rarely),North America,Teen
+10,Yes,"['Scary elements', 'Horrifying elements']",Often,Often,Yes,Pictures or sounds likely to be scary (Often) | Pictures or sounds likely to be horrifying (Often) | Intense and unrelenting sense of imminent threat,North America,Teen
+11,Yes,"['Scary elements', 'Horrifying elements']",Often,Often,No,Pictures or sounds likely to be scary (Often) | Pictures or sounds likely to be horrifying (Often),North America,Teen
+12,No,,,,,提取失败,North America,Everyone

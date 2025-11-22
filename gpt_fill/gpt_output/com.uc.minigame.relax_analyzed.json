@@ -1,0 +1,128 @@
+{
+  "answers": {
+    "Gory_Images": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏界面没有显示任何暴力或血腥内容。"
+    },
+    "violence_content": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "没有涉及暴力内容，无法选择。"
+    },
+    "violence_setting": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "没有暴力场景，无法选择。"
+    },
+    "violence_style": {
+      "answer": "Yes, it has a childlike style (e.g., likely to appeal to younger children)",
+      "confidence": 0.9,
+      "reason": "游戏界面采用卡通风格，适合儿童。"
+    },
+    "reactions_to_violence": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "没有暴力内容，无法选择。"
+    },
+    "violence_presentation": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "没有暴力内容，无法选择。"
+    },
+    "blood_gore_level": {
+      "answer": "None",
+      "confidence": 0.95,
+      "reason": "没有任何血腥或恐怖的内容。"
+    },
+    "war_setting": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏没有涉及战争背景。"
+    },
+    "injury_penalties": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "没有无辜角色受伤或死亡的情况。"
+    },
+    "violent_overtones": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏没有任何恐怖或阴暗的音效。"
+    },
+    "violence_setting_context": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "没有暴力内容，无法选择。"
+    },
+    "pixelated_childlike_style": {
+      "answer": "Yes",
+      "confidence": 0.9,
+      "reason": "游戏界面风格卡通化，适合儿童。"
+    },
+    "reactions_to_violence_type": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "没有暴力内容，无法选择。"
+    },
+    "violence_presentation_style": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "没有暴力内容，无法选择。"
+    },
+    "blood_gore_level_associated": {
+      "answer": "None",
+      "confidence": 0.95,
+      "reason": "没有任何血腥或恐怖的内容。"
+    },
+    "creatures_human_behaviour": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "没有生物表现出人类行为。"
+    },
+    "violence_against_real_animals": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "没有针对真实动物的暴力行为。"
+    },
+    "violent_overtones_present": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "没有任何恐怖或阴暗的音效。"
+    },
+    "disturbing_images_explicitness": {
+      "answer": "Limited Detail",
+      "confidence": 0.95,
+      "reason": "没有任何令人不安的图像。"
+    },
+    "blood_unrelated_description": {
+      "answer": "Small and infrequent",
+      "confidence": 0.95,
+      "reason": "没有血液相关内容。"
+    }
+  },
+  "image_analysis": {
+    "file1.png": "加载界面，显示沙漏图标，背景为蓝色。",
+    "file2.png": "用户界面，显示用户昵称和语言选择，卡通风格。",
+    "file3.png": "游戏规则界面，显示目标和语言选择。",
+    "file4.png": "等待房间界面，显示用户列表和等待提示。",
+    "file5.png": "游戏界面，显示一个玩偶和危险标志，含有暴力暗示。",
+    "file6.png": "游戏界面，显示玩偶和危险标志，含有暴力暗示。",
+    "file7.png": "游戏回答界面，显示用户回答和得分。",
+    "file8.png": "游戏绘画界面，用户正在绘制图形。",
+    "file9.png": "游戏结果界面，显示用户得分和排名。"
+  },
+  "image_files": [
+    "file1.png",
+    "file2.png",
+    "file3.png",
+    "file4.png",
+    "file5.png",
+    "file6.png",
+    "file7.png",
+    "file8.png",
+    "file9.png"
+  ],
+  "overall_confidence": 0.88,
+  "comment": ""
+}

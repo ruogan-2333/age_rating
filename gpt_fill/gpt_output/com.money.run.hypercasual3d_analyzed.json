@@ -1,0 +1,128 @@
+{
+  "answers": {
+    "Gory_Images": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏中没有明显的暴力或血腥画面。"
+    },
+    "violence_content": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "未涉及暴力内容，因此无相关选项。"
+    },
+    "violence_setting": {
+      "answer": "Fantastical",
+      "confidence": 0.9,
+      "reason": "游戏场景为幻想风格，非现实背景。"
+    },
+    "violence_style": {
+      "answer": "Yes, it has a childlike style (e.g., likely to appeal to younger children)",
+      "confidence": 0.92,
+      "reason": "游戏风格卡通化，适合儿童。"
+    },
+    "reactions_to_violence": {
+      "answer": "Unrealistic",
+      "confidence": 0.85,
+      "reason": "游戏中的反应不符合现实。"
+    },
+    "violence_presentation": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "未涉及暴力内容，因此无相关选项。"
+    },
+    "blood_gore_level": {
+      "answer": "None",
+      "confidence": 0.95,
+      "reason": "游戏中没有血腥或恐怖元素。"
+    },
+    "war_setting": {
+      "answer": "No",
+      "confidence": 0.98,
+      "reason": "游戏没有战争背景。"
+    },
+    "injury_penalties": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏中没有伤害或惩罚机制。"
+    },
+    "violent_overtones": {
+      "answer": "No",
+      "confidence": 0.97,
+      "reason": "游戏没有恐怖或阴暗的音效。"
+    },
+    "violence_setting_context": {
+      "answer": "Fantastical",
+      "confidence": 0.9,
+      "reason": "游戏场景为幻想风格，非现实背景。"
+    },
+    "pixelated_childlike_style": {
+      "answer": "Yes",
+      "confidence": 0.92,
+      "reason": "游戏采用卡通化风格，适合儿童。"
+    },
+    "reactions_to_violence_type": {
+      "answer": "Unrealistic",
+      "confidence": 0.85,
+      "reason": "游戏中的反应不符合现实。"
+    },
+    "violence_presentation_style": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "未涉及暴力内容，因此无相关选项。"
+    },
+    "blood_gore_level_associated": {
+      "answer": "None",
+      "confidence": 0.95,
+      "reason": "游戏中没有血腥或恐怖元素。"
+    },
+    "creatures_human_behaviour": {
+      "answer": "No",
+      "confidence": 0.98,
+      "reason": "游戏中的生物不具有人类行为。"
+    },
+    "violence_against_real_animals": {
+      "answer": "No",
+      "confidence": 0.98,
+      "reason": "游戏没有针对真实动物的暴力行为。"
+    },
+    "violent_overtones_present": {
+      "answer": "No",
+      "confidence": 0.97,
+      "reason": "游戏没有恐怖或阴暗的音效。"
+    },
+    "disturbing_images_explicitness": {
+      "answer": "Limited Detail",
+      "confidence": 0.9,
+      "reason": "游戏中没有令人不安的图像。"
+    },
+    "blood_unrelated_description": {
+      "answer": "Small and infrequent",
+      "confidence": 0.9,
+      "reason": "游戏中没有血液相关内容。"
+    }
+  },
+  "image_analysis": {
+    "image1.png": "游戏场景展示了一个卡通化的角色在跑道上，背景为海洋。",
+    "image2.png": "角色在跑道上奔跑，周围有金钱图标，场景明亮。",
+    "image3.png": "角色的背影，展示了夸张的身体特征，风格卡通化。",
+    "image4.png": "角色在游戏中收集金钱，场景明亮且卡通化。",
+    "image5.png": "角色在房屋前，场景简单，风格卡通化。",
+    "image6.png": "显示了游戏的排名界面，背景为简单的卡通场景。",
+    "image7.png": "游戏界面展示了广告和游戏进度，风格卡通化。",
+    "image8.png": "展示了游戏中的建筑物，背景为卡通化的城市景观。",
+    "image9.png": "角色在游戏中与建筑物互动，场景明亮且卡通化。"
+  },
+  "image_files": [
+    "image1.png",
+    "image2.png",
+    "image3.png",
+    "image4.png",
+    "image5.png",
+    "image6.png",
+    "image7.png",
+    "image8.png",
+    "image9.png"
+  ],
+  "overall_confidence": 0.91,
+  "comment": ""
+}

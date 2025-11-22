@@ -1,0 +1,139 @@
+{
+  "answers": {
+    "Gory_Images": {
+      "answer": "Yes",
+      "confidence": 0.85,
+      "reason": "游戏中有明显的暴力和受伤场景。"
+    },
+    "violence_content": {
+      "answer": [
+        "Violence or implied violence against humans",
+        "Disturbing or gory images without a violent act shown."
+      ],
+      "confidence": 0.8,
+      "reason": "游戏展示了对人类的暴力和令人不安的图像。"
+    },
+    "violence_setting": {
+      "answer": "Fantastical",
+      "confidence": 0.9,
+      "reason": "游戏场景设定在幻想世界中。"
+    },
+    "violence_style": {
+      "answer": "Yes, it has a childlike style (e.g., likely to appeal to younger children)",
+      "confidence": 0.95,
+      "reason": "游戏角色和风格显得童趣，吸引儿童。"
+    },
+    "reactions_to_violence": {
+      "answer": "Unrealistic",
+      "confidence": 0.85,
+      "reason": "角色对暴力的反应不符合现实。"
+    },
+    "violence_presentation": {
+      "answer": [
+        "Implied but not seen",
+        "Often depicted from a close-up perspective"
+      ],
+      "confidence": 0.8,
+      "reason": "暴力行为常常暗示而不直接展示。"
+    },
+    "blood_gore_level": {
+      "answer": "Mild/Limited",
+      "confidence": 0.75,
+      "reason": "游戏中血腥程度较轻，偶尔出现。"
+    },
+    "war_setting": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏没有真实或历史战争背景。"
+    },
+    "injury_penalties": {
+      "answer": "Yes, without penalties",
+      "confidence": 0.8,
+      "reason": "角色受伤没有明显的惩罚机制。"
+    },
+    "violent_overtones": {
+      "answer": "Yes",
+      "confidence": 0.85,
+      "reason": "游戏中存在阴暗的音效和角色。"
+    },
+    "violence_setting_context": {
+      "answer": "Fantastical",
+      "confidence": 0.9,
+      "reason": "暴力发生在幻想背景中。"
+    },
+    "pixelated_childlike_style": {
+      "answer": "Yes",
+      "confidence": 0.95,
+      "reason": "游戏整体风格显得像儿童画。"
+    },
+    "reactions_to_violence_type": {
+      "answer": "Unrealistic",
+      "confidence": 0.85,
+      "reason": "角色对暴力的反应不符合现实。"
+    },
+    "violence_presentation_style": {
+      "answer": [
+        "Implied but not seen",
+        "Often depicted from a close-up perspective"
+      ],
+      "confidence": 0.8,
+      "reason": "暴力行为常常暗示而不直接展示。"
+    },
+    "blood_gore_level_associated": {
+      "answer": "Mild/Limited",
+      "confidence": 0.75,
+      "reason": "游戏中血腥程度较轻，偶尔出现。"
+    },
+    "creatures_human_behaviour": {
+      "answer": "No",
+      "confidence": 0.9,
+      "reason": "游戏中的生物不具有人类行为。"
+    },
+    "violence_against_real_animals": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏没有针对真实动物的暴力。"
+    },
+    "violent_overtones_present": {
+      "answer": "Yes",
+      "confidence": 0.85,
+      "reason": "游戏中存在阴暗的音效和角色。"
+    },
+    "disturbing_images_explicitness": {
+      "answer": "Limited Detail",
+      "confidence": 0.8,
+      "reason": "令人不安的图像细节较少。"
+    },
+    "blood_unrelated_description": {
+      "answer": "Small and infrequent",
+      "confidence": 0.75,
+      "reason": "游戏中的血液出现频率较低且数量较少。"
+    }
+  },
+  "image_analysis": {
+    "image1.png": "游戏标题画面，展示了一个卡通风格的角色和游戏名称。",
+    "image2.png": "游戏关卡选择界面，展示了多个角色和道具。",
+    "image3.png": "游戏第一关，玩家准备攻击一个卡通角色。",
+    "image4.png": "游戏第二关，玩家正在攻击一个飞出的角色。",
+    "image5.png": "游戏第四关，多个角色围坐在桌子旁。",
+    "image6.png": "游戏第五关，角色坐在车顶上，准备被攻击。",
+    "image7.png": "游戏第六关，两个角色面对面站立。",
+    "image8.png": "游戏第十关，角色坐在马桶上，准备被攻击。",
+    "image9.png": "游戏第十一关，多个角色举着奖杯庆祝。",
+    "image10.png": "游戏中的蛇类对战场景，展示了多个玩家。"
+  },
+  "image_files": [
+    "image1.png",
+    "image2.png",
+    "image3.png",
+    "image4.png",
+    "image5.png",
+    "image6.png",
+    "image7.png",
+    "image8.png",
+    "image9.png",
+    "image10.png"
+  ],
+  "overall_confidence": 0.82,
+  "comment": ""
+}

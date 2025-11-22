@@ -1,0 +1,216 @@
+{
+  "Gory_Images": {
+    "question": "Does the game contain inferences of, references to, or depictions of violence, blood, or gory images? This includes violence directed at the player's character. Please note that this question does not refer to user-generated content.",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Yes" },
+      { "value": "No" }
+    ],
+    "show_if": null
+  },
+  "violence_content": {
+    "question": "If Yes, select all that the game includes",
+    "type": "multiple",
+    "options": [
+      { "value": "Violence or implied violence against humans" },
+      { "value": "Violence against anything other than humans (e.g., animals, fantasy creatures, robots, vehicles)" },
+      { "value": "Disturbing or gory images without a violent act shown." },
+      { "value": "Blood that isn't directly related to a violent act (e.g., blood on clothing, blood in the background, blood resulting from performing surgery)" }
+    ],
+    "show_if": { "id": "Gory_Images", "answer": "Yes" }
+  },
+  "violence_setting": {
+    "question": "In what kind of setting (context, storyline) does the violence occur?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Fantastical" },
+      { "value": "Realistic" }
+    ],
+    "show_if": null
+  },
+  "violence_style": {
+    "question": "Does the game have a pixelated or childlike style?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Yes, it has a childlike style (e.g., likely to appeal to younger children)" },
+      { "value": "Yes, it has a pixelated style" },
+      { "value": "No" }
+    ],
+    "show_if": null
+  },
+  "reactions_to_violence": {
+    "question": "How would you describe the reactions to violence?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Unrealistic" },
+      { "value": "Realistic" }
+    ],
+    "show_if": null
+  },
+  "violence_presentation": {
+    "question": "How is this violence presented in the game?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "multiple",
+    "options": [
+      { "value": "Referred to" },
+      { "value": "Implied but not seen" },
+      { "value": "Rarely depicted from a distant perspective" },
+      { "value": "Often depicted from a distant perspective" },
+      { "value": "Rarely depicted from a close-up perspective" },
+      { "value": "Often depicted from a close-up perspective" }
+    ],
+    "show_if": null
+  },
+  "blood_gore_level": {
+    "question": "What is the level of blood and/or gore associated with this violence?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "None" },
+      { "value": "Mild/Limited" },
+      { "value": "Moderate" },
+      { "value": "High" }
+    ],
+    "show_if": null
+  },
+  "war_setting": {
+    "question": "Does the game take place in a realistic or historical war setting?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Yes" },
+      { "value": "No" }
+    ],
+    "show_if": null
+  },
+  "injury_penalties": {
+    "question": "Can innocent or defenseless characters be seriously injured or killed?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "No" },
+      { "value": "Yes, with penalties" },
+      { "value": "Yes, without penalties" }
+    ],
+    "show_if": null
+  },
+  "violent_overtones": {
+    "question": "Are there any fierce sounds, sinister or intimidating characters, or dark overtones associated with this violence?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Yes" },
+      { "value": "No" }
+    ],
+    "show_if": null
+  },
+  "violence_setting_context": {
+    "question": "In what kind of setting (context, storyline) does the violence occur?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Fantastical" },
+      { "value": "Realistic" }
+    ],
+    "show_if": null
+  },
+  "pixelated_childlike_style": {
+    "question": "Does the game have a pixelated or childlike style?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Yes" },
+      { "value": "No" }
+    ],
+    "show_if": null
+  },
+  "reactions_to_violence_type": {
+    "question": "How would you describe the reactions to violence?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Unrealistic" },
+      { "value": "Realistic" }
+    ],
+    "show_if": null
+  },
+  "violence_presentation_style": {
+    "question": "How is this violence presented in the game?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "multiple",
+    "options": [
+      { "value": "Referred to" },
+      { "value": "Rarely depicted from a distant perspective" },
+      { "value": "Often depicted from a distant perspective" },
+      { "value": "Rarely depicted from a close-up perspective" },
+      { "value": "Often depicted from a close-up perspective" }
+    ],
+    "show_if": null
+  },
+  "blood_gore_level_associated": {
+    "question": "What is the level of blood and/or gore associated with this violence?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "None" },
+      { "value": "Mild/Limited" },
+      { "value": "Moderate" },
+      { "value": "High" }
+    ],
+    "show_if": null
+  },
+  "creatures_human_behaviour": {
+    "question": "Do any of these creatures behave or respond like humans?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Yes" },
+      { "value": "No" }
+    ],
+    "show_if": null
+  },
+  "violence_against_real_animals": {
+    "question": "Is any of this violence against real-world animals?",
+    "type": "single",
+    "options": [
+      { "value": "Yes" },
+      { "value": "No" }
+    ],
+    "show_if": null
+  },
+  "violent_overtones_present": {
+    "question": "Are there any fierce sounds, sinister or intimidating characters, or dark overtones associated with this violence?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Yes" },
+      { "value": "No" }
+    ],
+    "show_if": null
+  },
+  "disturbing_images_explicitness": {
+    "question": "How explicitly depicted are these disturbing or gory images?",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Limited Detail" },
+      { "value": "Moderate Detail" },
+      { "value": "Graphic Detail" }
+    ],
+    "show_if": null
+  },
+  "blood_unrelated_description": {
+    "question": "What best describes this type of blood in the game:",
+    "learn_more": "https://support.google.com/googleplay/android-developer/answer/7444145?hl=en",
+    "type": "single",
+    "options": [
+      { "value": "Small and infrequent" },
+      { "value": "Large or frequent" }
+    ],
+    "show_if": null
+  }
+}

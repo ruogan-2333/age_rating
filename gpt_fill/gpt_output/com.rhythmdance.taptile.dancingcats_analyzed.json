@@ -1,0 +1,132 @@
+{
+  "answers": {
+    "Gory_Images": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏没有暴力或血腥的内容。"
+    },
+    "violence_content": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "没有相关内容可供选择。"
+    },
+    "violence_setting": {
+      "answer": "Fantastical",
+      "confidence": 0.9,
+      "reason": "游戏场景充满幻想元素。"
+    },
+    "violence_style": {
+      "answer": "Yes, it has a childlike style (e.g., likely to appeal to younger children)",
+      "confidence": 0.98,
+      "reason": "游戏风格可爱，适合儿童。"
+    },
+    "reactions_to_violence": {
+      "answer": "Unrealistic",
+      "confidence": 0.85,
+      "reason": "游戏中的反应不真实。"
+    },
+    "violence_presentation": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "没有暴力内容可供选择。"
+    },
+    "blood_gore_level": {
+      "answer": "None",
+      "confidence": 0.95,
+      "reason": "没有血腥或恐怖的场景。"
+    },
+    "war_setting": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "游戏不涉及战争背景。"
+    },
+    "injury_penalties": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "没有角色受伤或死亡的情况。"
+    },
+    "violent_overtones": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "没有恐怖或阴暗的音效。"
+    },
+    "violence_setting_context": {
+      "answer": "Fantastical",
+      "confidence": 0.9,
+      "reason": "游戏背景是幻想世界。"
+    },
+    "pixelated_childlike_style": {
+      "answer": "Yes",
+      "confidence": 0.98,
+      "reason": "游戏风格明显是儿童向的。"
+    },
+    "reactions_to_violence_type": {
+      "answer": "Unrealistic",
+      "confidence": 0.85,
+      "reason": "游戏中的反应不真实。"
+    },
+    "violence_presentation_style": {
+      "answer": null,
+      "confidence": 0.0,
+      "reason": "没有暴力内容可供选择。"
+    },
+    "blood_gore_level_associated": {
+      "answer": "None",
+      "confidence": 0.95,
+      "reason": "没有血腥或恐怖的场景。"
+    },
+    "creatures_human_behaviour": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "没有生物表现出人类行为。"
+    },
+    "violence_against_real_animals": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "没有针对真实动物的暴力。"
+    },
+    "violent_overtones_present": {
+      "answer": "No",
+      "confidence": 0.95,
+      "reason": "没有恐怖或阴暗的音效。"
+    },
+    "disturbing_images_explicitness": {
+      "answer": "Limited Detail",
+      "confidence": 0.9,
+      "reason": "没有令人不安的图像。"
+    },
+    "blood_unrelated_description": {
+      "answer": "Small and infrequent",
+      "confidence": 0.9,
+      "reason": "游戏中没有血液相关内容。"
+    }
+  },
+  "image_analysis": {
+    "image1.png": "第一张图展示了游戏的玩法说明，风格可爱。",
+    "image2.png": "第二张图显示了游戏中的猫在跳跃，画面明亮。",
+    "image3.png": "第三张图展示了一个游戏界面，包含音符和分数。",
+    "image4.png": "第四张图是空白，未包含任何内容。",
+    "image5.png": "第五张图展示了Roblox的下载页面，包含角色图像。",
+    "image6.png": "第六张图展示了一个音乐游戏的界面，包含分数和按钮。",
+    "image7.png": "第七张图展示了一个涂色游戏的界面，包含花卉图案。",
+    "image8.png": "第八张图展示了数字填色游戏的下载页面，包含多种图案。",
+    "image9.png": "第九张图展示了猫在跳跃的游戏画面，色彩柔和。",
+    "image10.png": "第十张图展示了一个可爱的动物角色，风格卡通化。",
+    "image11.png": "第十一张图展示了一个卡通角色，风格可爱。"
+  },
+  "image_files": [
+    "image1.png",
+    "image2.png",
+    "image3.png",
+    "image4.png",
+    "image5.png",
+    "image6.png",
+    "image7.png",
+    "image8.png",
+    "image9.png",
+    "image10.png",
+    "image11.png"
+  ],
+  "overall_confidence": 0.87,
+  "comment": ""
+}

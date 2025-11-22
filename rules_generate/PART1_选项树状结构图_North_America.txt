@@ -1,0 +1,348 @@
+评级触发选项树状结构（North America 评级）
+================================================================================
+
+【controlled】
+├── alcohol_details
+    ├── Encourages/Glamorizes → North America: 13+
+    ├── Use → North America: 10+
+    └── Reference → North America: 0（Everyone）
+├── alcohol_first_person_perspective
+    ├── Yes → North America: 13+
+    └── No → North America: 10+
+├── alcohol_frequency
+    ├── Often → North America: 13+
+    └── Rarely → North America: 0（Everyone）
+├── controlled_substance_content
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── controlled_substance_includes
+    ├── Illegal or Recreational Drugs → North America: 13+
+    ├── Fantasy Drugs → North America: 13+
+    ├── Medical Drugs → North America: 0（Everyone）
+    ├── Alcohol → North America: 0（Everyone）
+    └── Tobacco → North America: 0（Everyone）
+├── fantasy_drugs_details
+    ├── Reference → North America: 13+
+    ├── Use → North America: 13+
+    └── Encourages/Glamorizes → North America: 13+
+├── fantasy_drugs_frequency
+    ├── Rarely → North America: 13+
+    └── Often → North America: 13+
+├── illegal_drugs_details
+    ├── Detailed Instruction for Use → North America: 18+
+    ├── Use → North America: 17+
+    ├── Encourages/Glamorizes → North America: 17+
+    └── Reference → North America: 13+
+├── illegal_drugs_incentives
+    ├── Yes → North America: 17+
+    └── No → North America: 17+
+├── illegal_drugs_interactive
+    ├── Yes → North America: 17+
+    └── No → North America: 17+
+├── medical_drugs_details
+    ├── Encourages/Glamorizes → North America: 17+
+    ├── Reference → North America: 0（Everyone）
+    └── Use → North America: 13+
+├── medical_drugs_frequency
+    ├── Rarely → North America: 0（Everyone）
+    └── Often → North America: 13+
+├── tobacco_details
+    ├── Encourages/Glamorizes → North America: 13+
+    ├── Use → North America: 10+
+    └── Reference → North America: 0（Everyone）
+├── tobacco_first_person_perspective
+    ├── Yes → North America: 13+
+    └── No → North America: 10+
+└── tobacco_frequency
+    ├── Often → North America: 13+
+    └── Rarely → North America: 0（Everyone）
+
+【crude】
+├── crude_humor_content
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+└── crude_humor_features
+    ├── Act of human defecation visually depicted → North America: 17+
+    ├── Urination, urine, realistically depicted feces → North America: 13+
+    ├── Mucus, belching, flatulence sounds → North America: 0（Everyone）
+    └── Flatulence (with depiction of "flatulence cloud"), whimsical depictions of feces ("poo coils"), vomiting → North America: 13+
+
+【digital】
+├── assets_purchase_requirement
+    ├── Yes → North America: 17+
+    └── No → North America: 0（Everyone）
+├── digital_assets_promoted
+    ├── Yes → North America: 17+
+    └── No → North America: 0（Everyone）
+├── digital_purchases_content
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── digital_purchases_includes
+    ├── Cash Convertible Rewards - Cash rewards, real-world items of significant monetary value, convertible cryptocurrency rewards or other play-to-earn mechanics → North America: 17+
+    ├── Purchases of digital goods → North America: 0（Everyone）
+    └── Issuance (e.g., minting) of transferable digital assets (e.g., NFTs) → North America: 0（Everyone）
+├── integrated_marketplace
+    ├── Yes → North America: 17+
+    └── No → North America: 0（Everyone）
+├── loot_box_purchases
+    ├── Yes → North America: 13+
+    └── No → North America: 0（Everyone）
+├── user_trade_system
+    ├── Yes → North America: 13+
+    └── No → North America: 0（Everyone）
+└── wager_purchases
+    ├── Yes → North America: 18+
+    └── No → North America: 17+
+
+【fear】
+├── horrifying_elements_frequency
+    ├── Rare → North America: 13+
+    └── Often → North America: 13+
+├── intense_and_unrelenting
+    ├── Yes → North America: 13+
+    └── No → North America: 13+
+├── scary_content
+    ├── Yes → North America: 13+
+    └── No → North America: 0（Everyone）
+├── scary_elements_frequency
+    ├── Often → North America: 10+
+    └── Rare → North America: 13+
+└── scary_elements_includes
+    ├── Horrifying elements → North America: 13+
+    └── Scary elements → North America: 13+
+
+【gambling】
+├── casino_content
+    ├── Yes → North America: 17+
+    └── No → North America: 13+
+├── casino_purchases
+    ├── Yes → North America: 18+
+    └── No → North America: 17+
+├── gambling_cash_rewards
+    ├── Yes → North America: 17+
+    └── No → North America: 18+
+├── gambling_content
+    ├── Yes → North America: 13+
+    └── No → North America: 0（Everyone）
+├── gambling_includes
+    ├── Playable casino games, lotteries, or racetrack betting → North America: 13+
+    ├── Gambling themes → North America: 13+
+    ├── Playable bingo games → North America: 13+
+    └── Any other games that use in-game currency/tokens to play and can reward the same currency through gameplay. → North America: 18+
+├── gambling_prominent
+    ├── Yes → North America: 10+
+    └── No → North America: 13+
+└── gambling_purchases
+    ├── Yes → North America: 18+
+    └── No → North America: 17+
+
+【language】
+├── language_content
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── language_discriminatory_frequency
+    ├── Often → North America: 17+
+    └── Rarely → North America: 13+
+├── language_includes
+    ├── Sexual expletives → North America: 17+
+    ├── Moderate swearing or other language or gestures that could be considered moderately or significantly offensive → North America: 13+
+    ├── Discriminatory language (against race, religion, sex, etc...) → North America: 13+
+    └── Minor profanities (e.g., "go to hell") → North America: 0（Everyone）
+├── language_moderate_frequency
+    ├── Rarely → North America: 13+
+    └── Often → North America: 13+
+├── language_profanities_frequency
+    ├── Often → North America: 10+
+    └── Rarely → North America: 0（Everyone）
+└── sexual_expletives_frequency
+    ├── Rarely → North America: 17+
+    └── Often → North America: 17+
+
+【misc】
+├── advocate_terrorism
+    ├── Yes → North America: 18+
+    └── No → North America: 0（Everyone）
+├── chat_moderation
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── crime_imitability_children
+    ├── Yes → North America: 13+
+    └── No → North America: 13+
+├── detailed_criminal_techniques
+    ├── Yes → North America: 18+
+    └── No → North America: 13+
+├── interactions_invited_only
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── misc_user_interaction
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── nazi_symbols
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── realistic_crime_descriptions
+    ├── Yes → North America: 13+
+    └── No → North America: 0（Everyone）
+├── share_precise_location
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── south_korea_national_identity
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── user_content_control
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+└── user_content_reporting
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+
+【sexuality】
+├── dating_games_prominent
+    ├── Yes → North America: 10+
+    └── No → North America: 0（Everyone）
+├── nudity_erotic_context
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── nudity_fantasy_breasts_frequency
+    ├── Rarely → North America: 0（Everyone）
+    └── Often → North America: 0（Everyone）
+├── nudity_genitalia_frequency
+    ├── Often → North America: 10+
+    └── Rarely → North America: 0（Everyone）
+├── nudity_human_breasts_with_nipples_frequency
+    ├── Rarely → North America: 0（Everyone）
+    └── Often → North America: 0（Everyone）
+├── nudity_human_buttocks_frequency
+    ├── Often → North America: 10+
+    └── Rarely → North America: 0（Everyone）
+├── nudity_includes
+    ├── Human Buttocks → North America: 0（Everyone）
+    ├── Nipple-less Breasts or Breasts with Minimal Coverage, e.g., pasties, long hair → North America: 0（Everyone）
+    ├── Female Fantasy Creatures → North America: 0（Everyone）
+    ├── Female Human Breasts with Nipples → North America: 0（Everyone）
+    └── Genitalia → North America: 0（Everyone）
+├── nudity_nippleless_breasts_frequency
+    ├── Rarely → North America: 10+
+    └── Often → North America: 0（Everyone）
+├── revealing_outfits_erotic_context
+    ├── Yes → North America: 13+
+    └── No → North America: 13+
+├── revealing_outfits_frequency
+    ├── Rarely → North America: 13+
+    └── Often → North America: 13+
+├── revealing_outfits_nudity_includes
+    ├── Revealing Outfits → North America: 13+
+    └── Nudity → North America: 0（Everyone）
+├── revealing_outfits_out_of_place
+    ├── Yes → North America: 10+
+    └── No → North America: 13+
+├── sexual_activity_frequency
+    ├── Rarely → North America: 0（Everyone）
+    └── Often → North America: 0（Everyone）
+├── sexual_depiction_type
+    ├── Shown with Partial Nudity - Breasts, Buttocks → North America: 10+
+    ├── Shown with Full Frontal Nudity → North America: 10+
+    ├── Obscured/Innuendo - Sex act is either entirely off-camera or completely blocked from view → North America: 0（Everyone）
+    └── Shown with No Nudity - Characters are depicted in a sexual act but no nudity is shown → North America: 0（Everyone）
+├── sexual_scene_duration
+    ├── Brief → North America: 10+
+    └── Prolonged → North America: 0（Everyone）
+├── sexual_underage
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── sexual_violence_presentation
+    ├── Visually depicted → North America: 18+
+    └── Referred to only → North America: 13+
+├── sexuality_content
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── sexuality_includes
+    ├── Depictions of or References to Sexual Violence → North America: 13+
+    ├── Suggestive/Sexual Themes or References → North America: 10+
+    ├── Sexual Activity - Includes both moving and still images of sexual activity → North America: 0（Everyone）
+    ├── Dating Games - Interactive dating, marriage, or other romantic relationships between game characters → North America: 0（Everyone）
+    └── Nudity or Revealing Outfits → North America: 0（Everyone）
+└── suggestive_themes_description
+    ├── Suggestive references and innuendo in text, dialogue, or heard → North America: 10+
+    ├── Overtly sexual situations or visually depicted innuendo → North America: 10+
+    ├── References to sexual activity without descriptive detail → North America: 10+
+    ├── References to sexual activity with descriptive detail → North America: 10+
+    └── Sexual situations involving those who appear to be under 18 → North America: 10+
+
+【violence】
+├── Gory_Images
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── blood_gore_level
+    ├── Moderate → North America: 10+
+    ├── None → North America: 0（Everyone）
+    ├── Mild/Limited → North America: 0（Everyone）
+    └── High → North America: 13+
+├── blood_gore_level_associated
+    ├── Mild/Limited → North America: 10+
+    ├── None → North America: 0（Everyone）
+    ├── Moderate → North America: 13+
+    └── High → North America: 13+
+├── blood_unrelated_description
+    ├── Large or frequent → North America: 10+
+    └── Small and infrequent → North America: 13+
+├── creatures_human_behaviour
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── disturbing_images_explicitness
+    ├── Graphic Detail → North America: 17+
+    ├── Limited Detail → North America: 13+
+    └── Moderate Detail → North America: 13+
+├── injury_penalties
+    ├── No → North America: 0（Everyone）
+    ├── Yes, with penalties → North America: 0（Everyone）
+    └── Yes, without penalties → North America: 0（Everyone）
+├── pixelated_childlike_style
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── reactions_to_violence
+    ├── Unrealistic → North America: 0（Everyone）
+    └── Realistic → North America: 0（Everyone）
+├── reactions_to_violence_type
+    ├── Unrealistic → North America: 0（Everyone）
+    └── Realistic → North America: 0（Everyone）
+├── violence_against_real_animals
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── violence_content
+    ├── Disturbing or gory images without a violent act shown. → North America: 13+
+    ├── Violence or implied violence against humans → North America: 0（Everyone）
+    ├── Violence against anything other than humans (e.g., animals, fantasy creatures, robots, vehicles) → North America: 0（Everyone）
+    └── Blood that isn → North America: 13+
+├── violence_presentation
+    ├── Rarely depicted from a close-up perspective → North America: 10+
+    ├── Referred to → North America: 0（Everyone）
+    ├── Implied but not seen → North America: 0（Everyone）
+    ├── Rarely depicted from a distant perspective → North America: 0（Everyone）
+    ├── Often depicted from a distant perspective → North America: 13+
+    └── Often depicted from a close-up perspective → North America: 13+
+├── violence_presentation_style
+    ├── Often depicted from a close-up perspective → North America: 10+
+    ├── Referred to → North America: 0（Everyone）
+    ├── Rarely depicted from a distant perspective → North America: 0（Everyone）
+    ├── Often depicted from a distant perspective → North America: 0（Everyone）
+    └── Rarely depicted from a close-up perspective → North America: 0（Everyone）
+├── violence_setting
+    ├── Fantastical → North America: 0（Everyone）
+    └── Realistic → North America: 0（Everyone）
+├── violence_setting_context
+    ├── Fantastical → North America: 0（Everyone）
+    └── Realistic → North America: 0（Everyone）
+├── violence_style
+    ├── Yes, it has a childlike style (e.g., likely to appeal to younger children) → North America: 0（Everyone）
+    ├── Yes, it has a pixelated style → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）
+├── violent_overtones
+    ├── Yes → North America: 13+
+    └── No → North America: 0（Everyone）
+├── violent_overtones_present
+    ├── Yes → North America: 13+
+    └── No → North America: 0（Everyone）
+└── war_setting
+    ├── Yes → North America: 0（Everyone）
+    └── No → North America: 0（Everyone）

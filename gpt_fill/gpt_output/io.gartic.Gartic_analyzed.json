@@ -1,0 +1,130 @@
+{
+  "answers": {
+    "Gory_Images": {
+      "answer": "No",
+      "confidence": 1.0,
+      "reason": "游戏中没有暴力或血腥的描绘。"
+    },
+    "violence_content": {
+      "answer": null,
+      "confidence": 1.0,
+      "reason": "没有涉及任何暴力内容。"
+    },
+    "violence_setting": {
+      "answer": null,
+      "confidence": 1.0,
+      "reason": "没有暴力场景，因此无设置。"
+    },
+    "violence_style": {
+      "answer": "No",
+      "confidence": 1.0,
+      "reason": "游戏风格不具儿童或像素化特征。"
+    },
+    "reactions_to_violence": {
+      "answer": null,
+      "confidence": 1.0,
+      "reason": "没有暴力反应的描述。"
+    },
+    "violence_presentation": {
+      "answer": null,
+      "confidence": 1.0,
+      "reason": "没有暴力表现，因此无描述。"
+    },
+    "blood_gore_level": {
+      "answer": "None",
+      "confidence": 1.0,
+      "reason": "游戏中没有血液或血腥内容。"
+    },
+    "war_setting": {
+      "answer": "No",
+      "confidence": 1.0,
+      "reason": "游戏没有战争背景。"
+    },
+    "injury_penalties": {
+      "answer": "No",
+      "confidence": 1.0,
+      "reason": "没有无辜角色受伤或死亡的情况。"
+    },
+    "violent_overtones": {
+      "answer": "No",
+      "confidence": 1.0,
+      "reason": "没有任何恐怖或阴暗的音效或角色。"
+    },
+    "violence_setting_context": {
+      "answer": null,
+      "confidence": 1.0,
+      "reason": "没有暴力场景，因此无设置。"
+    },
+    "pixelated_childlike_style": {
+      "answer": "No",
+      "confidence": 1.0,
+      "reason": "游戏风格不具儿童或像素化特征。"
+    },
+    "reactions_to_violence_type": {
+      "answer": null,
+      "confidence": 1.0,
+      "reason": "没有暴力反应的描述。"
+    },
+    "violence_presentation_style": {
+      "answer": null,
+      "confidence": 1.0,
+      "reason": "没有暴力表现，因此无描述。"
+    },
+    "blood_gore_level_associated": {
+      "answer": "None",
+      "confidence": 1.0,
+      "reason": "游戏中没有血液或血腥内容。"
+    },
+    "creatures_human_behaviour": {
+      "answer": "No",
+      "confidence": 1.0,
+      "reason": "没有生物表现出人类行为。"
+    },
+    "violence_against_real_animals": {
+      "answer": "No",
+      "confidence": 1.0,
+      "reason": "没有针对真实动物的暴力。"
+    },
+    "violent_overtones_present": {
+      "answer": "No",
+      "confidence": 1.0,
+      "reason": "没有任何恐怖或阴暗的音效或角色。"
+    },
+    "disturbing_images_explicitness": {
+      "answer": "Limited Detail",
+      "confidence": 1.0,
+      "reason": "游戏中没有令人不安的图像。"
+    },
+    "blood_unrelated_description": {
+      "answer": "Small and infrequent",
+      "confidence": 1.0,
+      "reason": "游戏中没有血液内容。"
+    }
+  },
+  "image_analysis": {
+    "1.png": "第一张图展示了一个卡通风格的角色，背景明亮且无暴力元素。",
+    "2.png": "第二张图展示了多个小游戏的封面，内容轻松有趣。",
+    "3.png": "第三张图展示了一个简单的游戏界面，角色可爱且无暴力。",
+    "4.png": "第四张图展示了一个卡通风格的场景，背景无暴力元素。",
+    "5.png": "第五张图展示了游戏完成的界面，内容积极且无暴力。",
+    "6.png": "第六张图展示了一个课堂场景，内容轻松且无暴力。",
+    "7.png": "第七张图展示了一个课堂场景，内容轻松且无暴力。",
+    "8.png": "第八张图展示了一个课堂场景，内容轻松且无暴力。",
+    "9.png": "第九张图展示了一个课堂场景，内容轻松且无暴力。",
+    "10.png": "第十张图展示了选择老师的界面，内容轻松且无暴力。"
+  },
+  "image_files": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "8.png",
+    "9.png",
+    "10.png"
+  ],
+  "overall_confidence": 1.0,
+  "comment": ""
+}
